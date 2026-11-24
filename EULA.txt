@@ -1,0 +1,72 @@
+# END-USER LICENSE AGREEMENT (EULA)
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either as an individual or on behalf of an entity) and boorch regarding your use of the Dronage Terminal application, including any associated files, samples, and documentation (collectively, the "Software").
+
+If you do not agree to all of the terms of this EULA, do not install, use, or copy the Software.
+
+## SUMMARY
+
+- You must agree to all of the terms of this EULA to use the Software.
+- If you agree, you may use the Software for any lawful purpose as permitted by this agreement.
+- The Software is provided as **freeware**, free of charge for personal and commercial use.
+- The Software is provided "as is" with no warranties, and boorch is not liable for damages arising from its use.
+
+## THE AGREEMENT
+
+By downloading, installing, using, or copying the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this EULA. If you do not agree to all of the terms of this EULA, you may not download, install, use, or copy the Software.
+
+## THE LICENSE
+
+Subject to your compliance with this EULA, boorch grants you a limited, non-exclusive, non-transferable license to download, install, and use the Software on devices that you own or control.
+
+You may download, install, and use this Software free of charge for any purpose, including commercial projects. You may make copies of the Software for backup or archival purposes. Redistribution of the original, unmodified binary is permitted for non-commercial purposes, as long as this license and all attributions remain intact.
+
+This Software is licensed, not sold. boorch reserves all rights not expressly granted to you under this EULA.
+
+## RESTRICTIONS
+
+You may not, directly or indirectly:
+
+a) Remove, alter, or obscure any copyright or proprietary notices on the Software or any copies thereof.
+
+b) Sell, sublicense, or commercially distribute this Software.
+
+c) License, rent, lease, or distribute the Software as your own work.
+
+d) Misrepresent the origin of the Software or claim authorship.
+
+e) Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, underlying ideas, algorithms, or structure of the Software.
+
+f) Use the Software for any unlawful purpose or in violation of this EULA.
+
+## INTELLECTUAL PROPERTY
+
+The Software and all worldwide copyrights and other intellectual property rights therein are and shall remain the property of boorch.
+
+## DISCLAIMERS
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+BOORCH DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, BE ERROR-FREE, UNINTERRUPTED, SECURE, OR COMPATIBLE WITH ANY PARTICULAR HARDWARE OR SOFTWARE CONFIGURATION.
+
+**USE THIS SOFTWARE AT YOUR OWN RISK.**
+
+## LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BOORCH BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIS INCLUDES BUT IS NOT LIMITED TO ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, HEARING DAMAGE, EQUIPMENT DAMAGE, OR OTHER INTANGIBLE LOSSES, EVEN IF BOORCH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## AUDIO WARNING
+
+The Software generates audio signals. You are solely responsible for monitoring output levels. boorch accepts no responsibility for any damage to hardware, software, hearing, or any other loss resulting from the use of this Software.
+
+## MODIFICATIONS AND TERMINATION
+
+boorch reserves the right, at its sole discretion, to modify, suspend, or discontinue the Software (or any part thereof) at any time, with or without notice. boorch shall not be liable to you or any third party for any modification, suspension, or discontinuation of the Software.
+
+This EULA is effective until terminated. Your rights under this EULA will automatically terminate if you fail to comply with any term of this agreement.
+
+## ENTIRE AGREEMENT
+
+This EULA constitutes the entire agreement between you and boorch regarding the Software and supersedes all prior or contemporaneous understandings or agreements, whether written or oral, regarding the Software.
