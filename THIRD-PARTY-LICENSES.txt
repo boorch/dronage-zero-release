@@ -71,7 +71,7 @@ Audio decoding is provided by **Symphonia**, a pure-Rust audio decoding library 
 
 ## Spleen
 
-The screen font is **Spleen** 6x12 by **Frederic Cambus**, used for letters, box drawing and braille.
+The screen fonts of the framebuffer builds are **Spleen** 6x12 (CardputerZero) and **Spleen** 12x24 (TrimUI Brick) by **Frederic Cambus**, used for letters, box drawing and braille.
 
 - **Repository:** https://github.com/fcambus/spleen
 - **License:** BSD 2-Clause
@@ -107,7 +107,7 @@ POSSIBILITY OF SUCH DAMAGE.
 
 ## Terminus Font
 
-A few icons come from **Terminus Font** 6x12 by **Dimitar Toshkov Zhekov**.
+A few icons of the 6x12 screen font come from **Terminus Font** 6x12 by **Dimitar Toshkov Zhekov**.
 
 - **Home page:** https://terminus-font.sourceforge.net
 - **License:** SIL Open Font License 1.1

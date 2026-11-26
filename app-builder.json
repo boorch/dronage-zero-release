@@ -1,12 +1,12 @@
 {
   "app_name": "Dronage 0",
   "package_name": "dronage-zero",
-  "version": "3.4.0-1",
+  "version": "3.5.1-1",
   "bin_name": "dronage-zero",
   "description": "Four-voice drone synthesizer with deep modulation and effects",
   "store": {
     "summary": "Four-voice drone synthesizer with deep modulation and effects",
-    "description": "Dronage 0 is a drone workstation for the CardputerZero.\n\nFour macro oscillator voices with 32 synthesis engines each, eight LFOs, a modulation matrix, a five-track modulation sequencer, a macro control, euclidean gates, delay, reverb, tape dirt and a compressor. Eight scenes per project, undo and redo, microtonal scales, twenty colour themes, WAV recording, and a page of full-screen visualizers.\n\nKeys: 4 to 8 pick a screen, F Z X C move the cursor, K N and M B change a value, Q W E R start and stop the four voices, H shows the key list, Esc opens the menu. Projects are kept in ~/Dronage.",
+    "description": "Dronage 0 is a drone workstation for the CardputerZero.\n\nFour macro oscillator voices with 35 synthesis engines each, eight LFOs, a modulation matrix, a five-track modulation sequencer, a macro control, euclidean gates, delay, reverb, tape dirt and a compressor. Eight scenes per project, undo and redo, microtonal scales, twenty colour themes, WAV recording, and a page of full-screen visualizers.\n\nKeys: 4 to 8 pick a screen, F Z X C move the cursor, K N and M B change a value, Q W E R start and stop the four voices, H shows the key list, Esc opens the menu. Projects are kept in ~/Dronage.",
     "icon": "icon.png",
     "screenshots": [
       "screenshots/1-splash.png",

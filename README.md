@@ -21,7 +21,7 @@ code **DRNG**.
 By hand, with the `.deb` from this repository:
 
 ```
-sudo dpkg -i dronage-zero_3.4.0-1_arm64.deb
+sudo dpkg -i dronage-zero_3.5.1-1_arm64.deb
 ```
 
 ## Keys
@@ -51,5 +51,5 @@ Projects, recordings, user scales and themes are kept in `~/Dronage`.
 
 ## License
 
-Freeware. See [EULA.txt](EULA.txt) and
+Licence: [EULA.txt](EULA.txt) and
 [THIRD-PARTY-LICENSES.txt](THIRD-PARTY-LICENSES.txt).
